@@ -25,15 +25,9 @@
 
 [打开交互式界面预览](docs/preview/index.html)
 
-## 构建
+## 下载与构建
 
-需要 Android SDK Platform 19 和 Android Build Tools 35.0.1。设置 `ANDROID_SDK_ROOT` 后构建普通版：
-
-```sh
-ANDROID_SDK_ROOT=/path/to/android-sdk ./build.sh
-```
-
-输出位于 `build/HeadunitManager-Android4.4.apk`。
+[GitHub Releases](https://github.com/BradyXs/headunit-manager/releases) 仅提供平台签名版 APK。它只适用于平台签名匹配的目标固件。仓库不包含平台签名材料；本机构建平台版需要 Android SDK Platform 19、Build Tools 35.0.1 及合法授权的签名材料，并使用 `build-platform.sh`。
 
 ## 许可证与图标
 
