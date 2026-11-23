@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Headunit" parent="android:style/Theme.Holo.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/hm_back</item>
+        <item name="android:alertDialogTheme">@style/Theme.Headunit.Dialog</item>
+    </style>
+    <style name="Theme.Headunit.Dialog" parent="android:style/Theme.Holo.Dialog">
+        <item name="android:windowBackground">@drawable/bg_hm_dialog</item>
+        <item name="android:textColorPrimary">#F8F9FC</item>
+        <item name="android:textColorSecondary">#BFC4CD</item>
+    </style>
+</resources>

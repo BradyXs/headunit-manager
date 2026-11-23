@@ -1,0 +1,19 @@
+/build/
+/platform-build/
+/platform-build-*/
+/releases/
+/.private/
+/.idea/
+*.iml
+*.keystore
+*.idsig
+*.jks
+*.pk8
+*.pem
+*.key
+*.apk
+*.log
+.DS_Store
+
+# Local agent guidance
+/AGENTS.md

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="车机管家标志">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#137EE4"/>
+      <stop offset="1" stop-color="#20B8E8"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="496" height="496" rx="112" fill="url(#tile)"/>
+  <path d="M105 326c0-106 64-176 151-176s151 70 151 176" fill="none" stroke="#FFFFFF" stroke-width="38" stroke-linecap="round"/>
+  <path d="m177 300 55 55 108-113" fill="none" stroke="#073E73" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
