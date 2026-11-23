@@ -11,9 +11,23 @@
 
 部分功能取决于设备系统版本、厂商服务和已授予的权限。请先在目标设备上确认兼容性，再使用会改变系统或应用状态的操作。
 
-## 预览
+## 界面预览
 
-[打开界面预览](docs/preview/index.html)。预览使用示例数据，不连接车机。
+界面采用与 DiPlay 一致的深色扁平卡片风格。下图来自交互式原型，使用示例数据，不连接车机。
+
+| 总览 | 应用管理 |
+|:---:|:---:|
+| ![总览页面](docs/preview/screenshots/overview.png) | ![应用管理页面](docs/preview/screenshots/apps.png) |
+
+| 文件管理 | 自动化任务 |
+|:---:|:---:|
+| ![文件管理页面](docs/preview/screenshots/files.png) | ![自动化任务页面](docs/preview/screenshots/automation.png) |
+
+| 工具箱 |
+|:---:|
+| ![工具箱页面](docs/preview/screenshots/tools.png) |
+
+[打开交互式界面预览](docs/preview/index.html)
 
 ## 构建
 
